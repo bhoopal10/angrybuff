@@ -1,3 +1,12 @@
+
+# Ignore everything
+*
+
+# Unignore the build/web directory and its contents
+!build/
+!build/web/
+!build/web/**
+
 # Miscellaneous
 *.class
 *.log
